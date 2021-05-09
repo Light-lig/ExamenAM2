@@ -59,7 +59,7 @@
                     android:layout_marginTop="8dp"
                     android:layout_marginEnd="84dp"
                     android:layout_marginBottom="9dp"
-                    android:text="8.70"
+                    android:text="texto"
                     android:textSize="24sp"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
@@ -76,7 +76,7 @@
                     android:layout_marginTop="8dp"
                     android:layout_marginEnd="73dp"
                     android:layout_marginBottom="8dp"
-                    android:text="80"
+                    android:text="texto"
                     android:textSize="24sp"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toStartOf="@+id/imageView2"
@@ -98,7 +98,7 @@
                     app:layout_constraintStart_toEndOf="@+id/imageView3"
                     app:layout_constraintTop_toTopOf="parent"
                     app:layout_constraintVertical_bias="0.0"
-                    app:srcCompat="@drawable/add" />
+                    app:srcCompat="@drawable/money" />
 
                 <ImageView
                     android:id="@+id/imageView3"
@@ -113,7 +113,7 @@
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
                     app:layout_constraintVertical_bias="0.333"
-                    app:srcCompat="@drawable/add" />
+                    app:srcCompat="@drawable/speed" />
             </androidx.constraintlayout.widget.ConstraintLayout>
 
         </LinearLayout>
